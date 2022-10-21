@@ -1,8 +1,9 @@
 # CSV_data_add
 <pre>
-so how will it work
-`sample1.csv` is the file where we are writting the data
-and  `sample.csv` where we are fetching the data
+suppose we have to fill an excel sheet so coordinator just go to the index.js file
+change  the " title " not the " id " with the require column name  according to the
+given excel sheet 
+run the code it will automatically fetch the details of student and add in the excel sheet
 </pre>
 
 <pre>
